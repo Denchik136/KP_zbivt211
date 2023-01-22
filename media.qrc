@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>media/1.png</file>
+        <file>media/2.png</file>
+        <file>media/4.png</file>
+        <file>media/3.png</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>media/testDB.db</file>
+    </qresource>
+</RCC>
